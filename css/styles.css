@@ -302,7 +302,7 @@ h1, h2, h3, h4 {
         height: 100vh;
         width: 100%;
         background-color: wheat;
-        background: url("/img/picture.png") center no-repeat;
+        background: url("img/picture.png") center no-repeat;
         background-size: cover;
         background-position: absolute;
         -webkit-background-size: cover;
